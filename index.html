@@ -8,12 +8,25 @@
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
 	  <style>
-		.header img {
-			display: block;
-			width: 50px;
-			height: 75px;
-			padding: 0 10px
-		  }
+		  
+		  #logo {
+  width: 50px; /* Width of image */
+  padding: 40px; /* Creates space around the logo */
+  margin: 0 auto; /* Centers the logo */
+  background: white; /* Must be same as body */
+  position: relative; /* Brings the div above the header:after element */
+}
+		  #logo img {
+  display: block;
+}
+		  header:after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: #ccc;
+  margin-top: -90px; /* Negative margin up by half height of logo + half total top and bottom padding around logo */
+}
 	  </style>
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
@@ -24,10 +37,11 @@
     <div class="wrapper">
       <header>
         	<h1>Imputation</h1>
-		<img src="dna_icon.svg"/>
-	      	<img src="dna_icon.svg"/>
-	      <img src="dna_icon.svg"/>
         <h3>A podcast about the genomics, bioethics, healthcare economics, and more. </h3>
+	      
+	<div id="logo">
+   		<img src="dna_icon.svg"/>
+  	</div>
       </header>
       <section>
         <h2>Motivations for the Podcast</h2>
