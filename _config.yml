@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Imputation
 description: A podcast about genetic engineering, bioethics, and economics.
+permalink: /:title/
+name: Adam Green
