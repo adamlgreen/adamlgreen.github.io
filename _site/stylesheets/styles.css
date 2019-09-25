@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:rgb(110, 51, 204);
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color: rgb(110, 80, 158)
 }
 
 a small {
@@ -100,8 +100,8 @@ th {
 }
 
 header img {
-  width: 25px;
-  height: 45px;
+  width: 40px;
+  height: 65px;
   border-radius: 70%;
 }
 
