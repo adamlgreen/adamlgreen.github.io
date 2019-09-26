@@ -24,6 +24,11 @@ h1 {
   font-weight: 500;
 }
 
+#home:hover {
+  color: rgb(115, 63, 199);
+  transition: 0.3s;
+}
+
 h2 {
   color:#393939;
   font-weight: 500;
@@ -39,8 +44,8 @@ a {
   text-decoration:none;
 }
 
-a:hover {
-  color: rgb(110, 80, 158)
+header a:hover {
+  color: rgb(125, 95, 173)
 }
 
 a small {
@@ -124,14 +129,6 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
-/* header h2 {
-  margin:0 0 12.5px;
-}
-
-header h3 {
-  margin: 15px 0 15px;
-} */
 
 header ul {
   list-style:none;
