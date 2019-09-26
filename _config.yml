@@ -3,4 +3,5 @@ title: Imputation
 description: A podcast about genetic engineering, bioethics, and economics.
 permalink: /:title/
 name: Adam Green
-site.url: imputationpodcast.github.io
+site.url: https://theframeshift.com
+google_analytics: UA-90025613-2
