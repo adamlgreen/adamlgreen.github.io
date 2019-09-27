@@ -11,7 +11,7 @@ PGS have many clinical applications. In this podcast, I intend to deeply explore
 
 Screening for aneuploidy (an abberant number of chromosomes) is already [standard of care](https://www.mayoclinic.org/tests-procedures/noninvasive-prenatal-testing/about/pac-20384574) for prospective mothers who conceived naturally and are in the prenatal stage. For women undergoing IVF, PGD is used to screen not only for aneuploidy but for monogenic disorders (like Cystic Fibrosis or Sickle Cell Anemia), too, especially if either of the parents is a carrier. 
 
-**IVF and PGD for _polygenic_ diseases vastly increases the scope of preventive genentic screening.** Given the potential reduction in disease burden and accompanying increase in well-being, **PGD might be one of the most ethically consequential technologies of the coming decades.**
+However, **IVF and PGD for _polygenic_ diseases would vastly increases the scope of preventive genentic screening.** Given the potential reduction in disease burden and accompanying increase in well-being, **PGD might be one of the most ethically consequential technologies of the coming decades.**
 
 IVF and PGD is technologically and ethically complex. To fully grasp the topic, one needs to understand the following subjects, among many others:
 
