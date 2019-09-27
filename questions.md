@@ -26,7 +26,7 @@ permalink: questions
 ### <a name="medical_genetics"></a>Medical and Behavioral Genetics
 
 #### Causality
-* How great a reduction in disease incidence could we achieve with widespread IVF + PGD using our current PGS? How great would this be if PGS's reached peak predictive value (i.e., SNP-heritability estimates)? 
+* How great a reduction in disease incidence could we achieve with widespread IVF + PGD using our current PGS? How great would this be if PGS reached peak predictive value (i.e., SNP-heritability estimates)? 
 * In what sense do PGS get at causal variants? If PGS predict traits of interest, does this question really matter?
 
 #### Genetic Correlations
