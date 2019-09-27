@@ -26,7 +26,7 @@ h1 {
 
 #home:hover {
   color: rgb(115, 63, 199);
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 h2 {
@@ -60,7 +60,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:960px;
   margin:0 auto;
 }
 
@@ -124,7 +124,7 @@ header img {
 } 
 
 header {
-  width:270px;
+  width:225px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -190,7 +190,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:625px;
   float:right;
   padding-bottom:50px;
 }
@@ -207,11 +207,23 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:225px;
   float:left;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+nav .tab {
+  margin-left: 20px;
+}
+
+nav h4 {
+  line-height: 10px;
+}
+
+nav h4:hover {
+  color: rgb(87, 30, 180)
 }
 
 

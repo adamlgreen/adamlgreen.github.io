@@ -5,5 +5,29 @@
             {{ item.name }}
         </a>
     </h3>
+        {% if item.name == "Questions" %}
+                <a href="/questions#population_genetics" style="color: rgb(110, 51, 204);">
+                    <h4 class="tab">Population Genetics</h4>
+                </a>
+                <a href="/questions#medical_genetics" style="color: rgb(110, 51, 204);">
+                    <h4 class="tab">Medical Genetics</h4>
+                </a>
+                <a href="/questions#ethics" style="color: rgb(110, 51, 204);">
+                    <h4 class="tab">Ethics</h4>
+                </a>
+                <a href="/questions#privacy" style="color: rgb(110, 51, 204);">
+                    <h4 class="tab">Privacy and Discrimination</h4>
+                </a>
+                <a href="/questions#embryology" style="color: rgb(110, 51, 204);">
+                    <h4 class="tab">Embryology</h4>
+                </a>
+                <a href="/questions#synthetic_bio" style="color: rgb(110, 51, 204);">
+                    <h4 class="tab">Synthetic Biology</h4>
+                </a>
+                <a href="/questions#economics" style="color: rgb(110, 51, 204);">
+                    <h4 class="tab">Economics</h4>
+                </a>
+
+        {% endif %}
     {% endfor %}
   </nav>
