@@ -13,4 +13,4 @@ I'm currently working with two co-authors on a PGD-related paper. In this paper,
 
 ## Funding
 
-I've decided to work on this project full-time. I'm able to do this because of a generous grant from [Emergent Ventures](https://www.mercatus.org/emergentventures). Any views expressed on this site or on the podcast are solely my own and do not reflect the views of Emergent Ventures or the Mercatus Center. 
+I've decided to work on this project full-time. I'm able to do this because of a generous grant from [Emergent Ventures](https://www.mercatus.org/emergentventures). Any views expressed on this site or on the podcast are solely my own and do not reflect those of Emergent Ventures or The Mercatus Center. 
