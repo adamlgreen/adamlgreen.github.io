@@ -7,7 +7,7 @@ title: About the Podcast
 
 Declining DNA sequencing costs have led to an abundance of genetic data. In the past decade, these data have been used to construct genetic predictors of complex, polygenic traits (i.e., traits controlled by many genes). These genetic predictors—called **polygenic scores** or **polygenic risk scores** (**PGS** or **PRS** for short)—are rapidly improving and will only continue to do so as further data are collected.
 
-PGS have many clinical applications. In this podcast, I intend to deeply explore one such cutting-edge application: **preimplantation genetic diagnosis (PGD) and screening of embryos prior to implantation—in particular, screening for highly heritable, polygenic diseases** (e.g., chronic cardiovascular, neurodegenerative, and metabolic diseases, which are some of the top killers in the developed world).
+PGS have many clinical applications. In this podcast, I intend to deeply explore one such cutting-edge application: **preimplantation genetic diagnosis (PGD) and screening of embryos in the context of in-vitro ferilization (IVF)—in particular, screening for highly heritable, polygenic diseases** (e.g., chronic cardiovascular, neurodegenerative, and metabolic diseases, which are some of the top killers in the developed world).
 
 Screening for aneuploidy (an abberant number of chromosomes) is already [standard of care](https://www.mayoclinic.org/tests-procedures/noninvasive-prenatal-testing/about/pac-20384574) for prospective mothers who conceived naturally and are in the prenatal stage. For women undergoing IVF, PGD is used to screen not only for aneuploidy but for monogenic disorders (like Cystic Fibrosis or Sickle Cell Anemia), too, especially if either of the parents is a carrier. 
 
