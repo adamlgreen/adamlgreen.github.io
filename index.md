@@ -24,11 +24,11 @@ PGD is technologically and ethically complex. To fully grasp the topic, one need
 
 ### Taboos and Timeliness  
 
-**We as a culture have yet to start a serious conversation about PGD.** Attempts at such conversations typically become mired in the novelty and complexity of the science (as stated, fields like population genetics are moving incredibly quickly, so it can be difficult to separate scientific fact from science fiction) or bogged down in intractable ethical debates (largely due to the sordid history of 20th century genetic selection). 
+**We as a culture have yet to start a serious conversation about PGD.** Attempts at such conversations typically become mired in the complexity and novelty of the science (as stated, fields like population genetics are moving incredibly quickly, so it can be difficult to separate scientific fact from fiction) or bogged down in intractable ethical debates (largely due to the sordid history of eugenics). 
 
 **Nonetheless, given that PGD is already feasible**—in fact, [one company](https://genomicprediction.com) is offering polygenic PGD and screening—**such a conversation is sorely needed.**
 
-In this podcast, I will talk to leading experts (many of whom I probably disagree with) in fields ranging from behavioral genetics to bioethics. By having deep, and at times difficult, conversations, I hope we can broach the subject of PGD and provide a solid scientific and ethical grounding for future conversations.
+In this podcast, I will talk to leading experts (some of whom I will disagree with) in fields ranging from behavioral genetics to bioethics. By having deep, and at times difficult, conversations, I hope we can broach the subject of PGD and provide a solid scientific and ethical grounding for future conversations.
 
 My goal is for the podcast to be comprehensible and interesting to lay-people and expert alike. I'll do this by building up from first principles an understanding of the science behind PGD; **this will involve building up an understanding of behavioral and population genetics, bioethics, and reproductive medicine.** With this framework in place, we can then begin to tackle the more complicated scientific and ethical issues, issues which will define the future of our species. 
 

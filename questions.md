@@ -27,7 +27,7 @@ permalink: questions
 
 #### Causality
 * How great a reduction in disease incidence could we achieve with widespread IVF + PGD using our current PGS? How great would this be if PGS's reached peak predictive value (i.e., SNP-heritability estimates)? 
-* In what sense do PGS get at causal variants? 
+* In what sense do PGS get at causal variants? If PGS predict traits of interest, does this question really matter?
 
 #### Genetic Correlations
 * A priori, should we expect it to be possible to select against disease traits without adverse effects? That is, can we perturb a complex, multidimensional system like the human genome without throwing everything out of whack?
@@ -48,7 +48,6 @@ permalink: questions
 
 #### Enhancement and History
 * What is enhancement? [Is it wrong](https://www.theatlantic.com/magazine/archive/2004/04/the-case-against-perfection/302927/)? 
-* Choosing one's mate is an indirect form of genetic selection, one which everyone is OK with. Why are many people uncomfortable with genetic selection of embryos? 
 * Is selecting against an embryo with a particular disorder (say, Down Syndrome) a tacit devaluation of the lives of those who have that disorder?
 * How do we reconcile the history of genetic selection with its modern potential for reducing suffering?
 * Where do we draw the line between disease-prevention and enhancement?
