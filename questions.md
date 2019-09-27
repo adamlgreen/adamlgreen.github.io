@@ -7,7 +7,7 @@ permalink: questions
 #### Here are some of the topics and questions I hope to address through the podcast:
 
 
-### <a name="population_genetics"></a> Population Genetics
+### <a name="population_genetics"></a> Population Genetics and Genetic Predictors
 
 #### Genetic Architecture of Disease
 * How many genetic variants are implicated in the most common diseases (that is, how sparse should we expect them to be)? What are the necessary sample sizes to discover these variants?
@@ -16,7 +16,7 @@ permalink: questions
 #### Population Stratification and Missing Heritability
 * Will high-coverage whole genome sequencing (WGS) help us discover the so-called "missing heritability"? 
 * Is regressing out the first N principal components of population stratification a good enough way of separating polygenic effects from confounding factors? What about LD score regression; is this a better solution? 
-* Within-family PGS studies are one of the best ways to control for population stratification, as well as environmental effects (including environmental effects that are passively genetically correlated, like [genetic nurture](https://www.genome.gov/Multimedia/Slides/MissingHeritability2018/25_kong_iImpact_indirect_genetic_effects.pdf)). Additionally, within-family studies directly mirror PGD, in that embryos are like siblings, as they have a relatedness of 0.5, and polygenic scores are distributed via meiosis.
+* Within-family PGS studies are one of the best ways to control for population stratification as well as environmental effects (especially environmental effects that are passively genetically correlated, like [genetic nurture](https://www.genome.gov/Multimedia/Slides/MissingHeritability2018/25_kong_iImpact_indirect_genetic_effects.pdf)). Additionally, within-family studies directly mirror PGD, in that embryos are like siblings, as they have a relatedness of 0.5, and polygenic scores are distributed via meiosis.
     1. Will within-family studies show that heritability estimates from twin studies are overestimates?
     2. Will within-family PGS ever approach SNP-based heritability estimates? 
 * How would you explain GCTA-GREML to a lay-person? 
@@ -30,9 +30,9 @@ permalink: questions
 * In what sense do PGS get at causal variants? 
 
 #### Genetic Correlations
-* A priori, should we expect it to be possible to select against disease traits without causing adverse consequences? That is, can we perturb a complex, multidimensional system like the human genome without throwing everything out of whack?
+* A priori, should we expect it to be possible to select against disease traits without adverse effects? That is, can we perturb a complex, multidimensional system like the human genome without throwing everything out of whack?
     * Does the fact that we're selecting among embryos, rather than directly editing the genome, mean we have less reason to worry about this problem?
-* How can genetics be used to inform nosology (the classification of disease)? For example, genetic correlations point toward a [unitary genetic factor of psychopathology](https://www.nature.com/articles/s41398-018-0217-4.pdf); should this influence how we categorize mental disorders, or is this committing the [fallacy of reification](https://en.wikipedia.org/wiki/Reification_(fallacy)).
+* How can genetics be used to inform nosology (the classification of disease)? For example, genetic correlations point toward a [unitary genetic factor of psychopathology](https://www.nature.com/articles/s41398-018-0217-4.pdf); should this influence how we categorize mental disorders, or is this committing the [fallacy of reification](https://en.wikipedia.org/wiki/Reification_(fallacy))?
 
 #### Disease Modeling
 * For case-control studies, what is the relationship between disease prevalence (K), the genetic sparsity of the disease (p), total heritability, and the sample size needed to construct a meaningfully predictive PGS?
@@ -42,7 +42,7 @@ permalink: questions
 ### <a name="ethics"></a>Ethics
 #### Intuitions and Permissibility
 * How does [status quo bias](https://nickbostrom.com/ethics/statusquo.pdf) affect our ethical beliefs about PGD?
-* Are preimplantation, prenatal, and postnatal genetic screening all equally ethically permissible? Are prospective parents morally [obligated](https://jme.bmj.com/content/41/2/175) to do any of these things, if they are freely available? How do our ethical intuitions about naturalness affect our answer to this question?
+* Are preimplantation, prenatal, and postnatal genetic screening all equally ethically permissible? Are prospective parents morally [obligated](https://jme.bmj.com/content/41/2/175) to do any of these things if they are freely available? How do our ethical intuitions about naturalness affect our answer to this question?
 * Julian Savulescu provides a strong case for PGD with his [principle of Procreative Beneficence](https://www.ncbi.nlm.nih.gov/pubmed/12058767); what is the best counter-argument to it?
 * What are the best consequentialist and deontological arguments for and against PGD?
 
