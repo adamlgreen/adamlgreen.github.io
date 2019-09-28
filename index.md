@@ -32,7 +32,7 @@ PGD is technologically and ethically complex. To fully grasp the topic, one need
 
 In this podcast, I will talk to leading experts (some of whom I will disagree with) in fields ranging from behavioral genetics to bioethics. By having deep, and at times difficult, conversations, I hope we can broach the subject of PGD and provide a solid scientific and ethical grounding for future conversations.
 
-My goal is for the podcast to be comprehensible and interesting to lay-people and expert alike. **To do this, I'll help the listener build up an understanding of PGD (and the scientific fields undergirding it) from first principles.** This will involve building up an understanding of behavioral and population genetics, bioethics, and reproductive medicine (which will necessarily involve building up an understanding of certain areas of statistics, like multivariate normal distributions and penalized regression). With this framework in place, we can then begin to tackle the more complicated scientific and ethical issues, issues which will define the future of our species. 
+My goal is for the podcast to be comprehensible and interesting to lay-people and expert alike. **To do this, I'll help the listener build up an understanding of PGD (and the scientific fields undergirding it) from first principles.** This will involve building up an understanding of behavioral and population genetics, bioethics, reproductive medicine, and statistics. With this framework in place, we can then begin to tackle the more complicated scientific and ethical issues, ones which will define the future of our species. 
 
 
 
