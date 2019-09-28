@@ -16,4 +16,4 @@ I'm currently working with two co-authors on a PGD-related paper. In this paper,
 I'm able to work on this podcast full-time thanks to a generous grant from [Emergent Ventures](https://www.mercatus.org/emergentventures). Any views expressed on this site or on the podcast are solely my own and do not reflect those of Emergent Ventures or The Mercatus Center. 
 
 ## Contact
-Podcast- or research-related inquiries, comments, and suggestions can be sent to [adam@theframeshift.com](adam@theframeshift.com).
+Podcast- or research-related inquiries, comments, and suggestions can be sent to [adam@theframeshift.com](adam@theframeshift.com). For more information, see [here](https://adamlgreen.com/about/).
