@@ -16,7 +16,7 @@ permalink: questions
 #### Population Stratification and Missing Heritability
 * Will high-coverage whole genome sequencing (WGS) help us discover the so-called "missing heritability"? 
 * Is regressing out the first N principal components of population stratification a good enough way of separating polygenic effects from confounding factors? What about LD score regression; is this a better solution? 
-* Within-family PGS studies are one of the best ways to control for population stratification as well as environmental effects (especially environmental effects that are passively genetically correlated, like [genetic nurture](https://www.genome.gov/Multimedia/Slides/MissingHeritability2018/25_kong_iImpact_indirect_genetic_effects.pdf)). Additionally, within-family studies directly mirror PGD, in that embryos are like siblings, as they have a relatedness of 0.5, and polygenic scores are distributed via meiosis.
+* Within-family PGS studies are one of the best ways to control for population stratification as well as environmental effects (especially environmental effects that are passively genetically correlated, like [genetic nurture](https://www.genome.gov/Multimedia/Slides/MissingHeritability2018/25_kong_iImpact_indirect_genetic_effects.pdf)). Additionally, within-family studies directly mirror PGD, in that embryos are like siblings, sharing a relatedness of 0.5, and polygenic scores are distributed via meiosis.
     1. Will within-family studies show that heritability estimates from twin studies are overestimates?
     2. Will within-family PGS ever approach SNP-based heritability estimates? 
 * How would you explain GCTA-GREML to a lay-person? 
@@ -58,7 +58,7 @@ permalink: questions
 * Regarding pleiotropy and unintended consequences, should we follow the precautionary principle and assume that there is no free lunch vis-à-vis biology?
 * Certain positive traits (e.g., creativity) are moderately [genetically correlated](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4590283/) with psychopathologies like schizophrenia and bipolar disorder. 
     1. Would parents selecting against these psychopathologies also be indirectly selecting against traits like creativity? (This assumes that creativity is highly heritable.)
-    2. Assuming that creativity is a public good, how to we reconcile this apparent assymetry in incentives? That is, how do we solve the collective action problem of maintaining beneficial types of genetic diversity when prospective parents are incentivized to select against it?
+    2. Assuming that creativity is a public good, how do we reconcile this apparent asymmetry in incentives? That is, how do we solve the collective action problem of maintaining beneficial types of genetic diversity when prospective parents are incentivized to select against it?
 
 ### <a name="privacy"></a>Privacy, GINA, and Discrimination
 * How do we deal with concerns about privacy and the ease with which genetic data can be de-anonymized? 
