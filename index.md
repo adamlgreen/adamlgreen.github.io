@@ -5,34 +5,42 @@ title: About the Podcast
 ## About The Podcast
 ### Motivations
 
-Declining DNA sequencing costs have led to an abundance of genetic data. In the past decade, these data have been used to construct genetic predictors of complex, polygenic traits (i.e., traits controlled by many genes). These genetic predictors—called **polygenic scores** or **polygenic risk scores** (**PGS** or **PRS** for short)—are rapidly improving and will only continue to do so as further data are collected.
+Declining DNA sequencing costs have led to an abundance of genetic data. In the past decade, these data have been used to construct genetic predictors of complex, polygenic trait—that is, traits controlled by many genes These genetic predictors, called **polygenic scores** or **polygenic risk scores** (**PGS** or **PRS** for short), are rapidly improving and will continue to improve as further data are collected. 
 
-PGS have many clinical applications. In this podcast, I intend to deeply explore one such cutting-edge application: **preimplantation genetic diagnosis (PGD) and screening of embryos in the context of in-vitro fertilization (IVF)—in particular, screening for highly heritable, polygenic diseases** (e.g., chronic cardiovascular, neurodegenerative, and metabolic diseases, which are some of the top killers in the developed world).
+In this podcast, we’ll explore the many clinical applications of PGS and related genomic technologies, including:
 
-Screening for aneuploidy (an abberant number of chromosomes) is already [standard of care](https://www.mayoclinic.org/tests-procedures/noninvasive-prenatal-testing/about/pac-20384574) for prospective mothers who conceived naturally and are in the prenatal stage. For women undergoing IVF, PGD is used to screen not only for aneuploidy but for monogenic disorders (like Cystic Fibrosis or Sickle Cell Anemia), too, especially if either of the parents is a carrier. 
+- **precision genomic medicine**: using PGS to identify individuals at higher risk of certain diseases in order to best allocate [preventive](https://www.biorxiv.org/content/10.1101/689935v1) [screening](https://www.biorxiv.org/content/10.1101/250712v1) or [medication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842298/)
+- **preimplantation genetic diagnosis**: using [PGS in conjunction with in-vitro fertilization](https://www.sciencedirect.com/science/article/pii/S1769721219301016) to identify embryos that have a predisposition for developing diseases—and not just [aneuploidies](https://www.mayoclinic.org/tests-procedures/noninvasive-prenatal-testing/about/pac-20384574) (an aberrant number of chromosomes) or monogenic disorders (like Cystic Fibrosis or Sickle Cell), but complex, common diseases (like cardiovascular, neurodegenerative, and metabolic diseases)
+- **gene-drives**: using DNA-editing technologies like CRISPR-Cas9 to propagate certain genes throughout a population—say, [a species of mosquito](https://www.nature.com/articles/nbt.4245)—in order to wipe out or control that population
+- **mechanistic understanding of disease and drug-targeting**: using [functional annotation](https://www.ahajournals.org/doi/10.1161/CIRCGEN.118.002328) to begin to mechanistically understand a disease or identify potential drug targets
 
-However, **PGD for _polygenic_ diseases would vastly increases the scope of preventive genetic screening.** Given the potential reduction in disease burden and accompanying increase in well-being, **PGD might be one of the most ethically consequential technologies of the coming decades.**
+### Technical and Ethical Complexity
 
-PGD is technologically and ethically complex. To fully grasp the topic, one needs to understand the following subjects, among many others:
+These technologies have the potential to save millions of lives and radically reduce disease incidence. But they also have the potential to make indelible changes to the collective human gene pool or cause an ecological disaster. **It is an understatement to say these technologies are ethically and technically complex.**
 
-- behavioral and population genetics (fields that are rapidly evolving)
+To fully grasp them, one needs to understand many topics, among them: 
+
+- quantitative and population genetics (fields that are rapidly evolving)
 - evolutionary biology
 - reproductive medicine and embryology
 - bioethics
 - healthcare economics 
+- ecology
 
+### The State of the Conversation
 
-### Taboos and Timeliness  
+There is a distinct lack of serious, nuanced conversations about the intersection of genomic technologies and bioethics ([save for a couple of exceptions](https://www.technologyreview.com/topic/rewriting-life/)). I believe this is for a few reasons:
 
-**We as a culture have yet to start a serious conversation about PGD.** Attempts at such conversations typically become mired in the complexity and novelty of the science (as stated, fields like population genetics are moving incredibly quickly, so it can be difficult to separate scientific fact from fiction) or bogged down in intractable ethical debates (largely due to the sordid history of eugenics). 
+- Many of these fields are evolving on a month-by-month basis, so it is nearly impossible to stay up-to-date with the cutting edge, and thus it can be difficult to separate scientific fact from fiction. 
+- Journalists have an incentive to sensationalize and paper over any technical complexity (not to mention, few geneticists and bioethicists work in journalism)
+- Parts of the history of genetics are quite sordid (e.g., sterilization laws and the eugenic practices of the Nazis), so few practicing scientists are willing to wade into these murky waters for fear of contamination.
 
-**Nonetheless, given that PGD is already feasible**—in fact, [one company](https://genomicprediction.com) is offering polygenic PGD and screening—**such a conversation is sorely needed.**
+**However, given that these technologies are on the horizon, if not already here, such conversations are sorely needed.** (Demurral on these topics won't stop these technologies from progressing and being implemented, whether [in the US](https://genomicprediction.com) or [abroad](https://www.technologyreview.com/s/612458/exclusive-chinese-scientists-are-creating-crispr-babies/).)
 
-### Logistics and Goals
+### Podcast Purpose
 
-In this podcast, I will talk to leading experts (some of whom I will disagree with) in fields ranging from behavioral genetics to bioethics. By having deep, and at times difficult, conversations, I hope we can broach the subject of PGD and provide a solid scientific and ethical grounding for future conversations.
+**The purpose of the podcast is twofold:** 
+1. To help the listener develop a scientific and ethical framework for understanding cutting-edge genomic technologies.
+2. To expand the scope of conversations we have about genomics and bioethics, so that we, as a culture, can collectively determine the use of such technologies.
 
-My goal is for the podcast to be comprehensible and interesting to lay-people and expert alike. **To do this, I'll help the listener build up an understanding of PGD (and the scientific fields undergirding it) from first principles.** This will involve building up an understanding of behavioral and population genetics, bioethics, reproductive medicine, and statistics. With this framework in place, we can then begin to tackle the more complicated scientific and ethical issues, ones which will define the future of our species. 
-
-
-
+My hope is that the podcast will begin some difficult but necessary conversations, conversations about issues that will define the future of our species. 
