@@ -5,7 +5,7 @@ title: About the Podcast
 ## About The Podcast
 ### Motivations
 
-Declining DNA sequencing costs have created a deluge of genetic data. In the past decade, these data have been used to construct genetic predictors of complex, polygenic traits—that is, traits controlled by many genes These genetic predictors, called **polygenic scores** or **polygenic risk scores** (**PGS** or **PRS** for short), are rapidly improving and will continue to improve as further data are collected. 
+Declining DNA sequencing costs have created a deluge of genetic data. In the past decade, these data have been used to construct genetic predictors of complex, polygenic traits—that is, traits controlled by many genes. These genetic predictors, called **polygenic scores** or **polygenic risk scores** (**PGS** or **PRS** for short), are rapidly improving and will continue to improve as further data are collected. 
 
 In this podcast, we’ll explore the many clinical applications of PGS and related genomic technologies, including:
 
