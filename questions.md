@@ -39,7 +39,7 @@ permalink: questions
 #### Intuitions and Permissibility
 * How does [status quo bias](https://nickbostrom.com/ethics/statusquo.pdf) affect our ethical intuitions around genetic technologies? 
 * Are preimplantation, prenatal, and postnatal genetic screening all equally ethically permissible? Are prospective parents morally [obligated](https://jme.bmj.com/content/41/2/175) to do any of these things if they are freely available? How do our ethical intuitions about naturalness affect our answer to this question?
-* Julian Savulescu provides a strong case for genetic selection/editing against disease [principle of Procreative Beneficence](https://www.ncbi.nlm.nih.gov/pubmed/12058767); what is the best counter-argument to it?
+* Julian Savulescu provides a strong case for genetic selection/editing against disease with his [principle of Procreative Beneficence](https://www.ncbi.nlm.nih.gov/pubmed/12058767). What is the best counter-argument to it?
 * What are the best consequentialist and deontological arguments for and against genetic selection or editing for disease? For enhancement?
 
 #### Enhancement and History
