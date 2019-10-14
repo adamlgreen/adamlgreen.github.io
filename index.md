@@ -10,7 +10,7 @@ Declining DNA sequencing costs have created a deluge of genetic data. In the pas
 In this podcast, we’ll explore the many clinical applications of PGS and related genomic technologies, including:
 
 - **precision medicine**: using PGS to identify groups of individuals at higher risk of certain diseases (risk stratification) in order to best [allocate](https://www.statnews.com/2019/10/02/overdiagnosis-cancer-irrational-exuberance-early-detection/) [preventive](https://www.biorxiv.org/content/10.1101/689935v1) [screening](https://www.biorxiv.org/content/10.1101/250712v1) or [medication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842298/).
-- **preimplantation genetic diagnosis** (PGD): using [PGS in conjunction with in-vitro fertilization](https://www.sciencedirect.com/science/article/pii/S1769721219301016) to identify embryos that have a predisposition for developing diseases—and not just [aneuploidies](https://www.mayoclinic.org/tests-procedures/noninvasive-prenatal-testing/about/pac-20384574) (an aberrant number of chromosomes) or monogenic disorders (like Cystic Fibrosis or Sickle Cell), but predispositions for complex, common diseases (like cardiovascular, neurodegenerative, and metabolic diseases).
+- **preimplantation genetic diagnosis** (PGD): using [PGS in conjunction with in-vitro fertilization](https://www.sciencedirect.com/science/article/pii/S1769721219301016) to identify embryos that have a predisposition for developing diseases—and not just [aneuploidies](https://www.mayoclinic.org/tests-procedures/noninvasive-prenatal-testing/about/pac-20384574) (an aberrant number of chromosomes) or monogenic disorders (like Cystic fibrosis or Sickle cell disease), but predispositions for complex, common diseases (like cardiovascular, neurodegenerative, and metabolic diseases).
 - **gene-drives**: using DNA-editing technologies like CRISPR-Cas9 to propagate certain genes throughout a population—say, [a species of mosquito](https://www.nature.com/articles/nbt.4245)—in order to wipe out or control that population.
 - **mechanistic understanding of disease and drug-targeting**: using [functional annotation](https://www.ahajournals.org/doi/10.1161/CIRCGEN.118.002328) to begin to mechanistically understand a disease or identify potential drug targets.
 
@@ -43,4 +43,4 @@ There is a distinct lack of serious, nuanced conversations about the intersectio
 1. To help the listener develop a scientific and ethical framework for understanding cutting-edge genomic technologies.
 2. To expand the scope of conversations we have about genomics and bioethics, so that we, as a culture, can collectively determine the use of such technologies.
 
-My hope is that the podcast will begin some difficult but necessary conversations, conversations about issues that will define the future of our species. 
+My hope is that the podcast will begin some difficult but necessary conversations, ones about issues that will define the future of our species. 
