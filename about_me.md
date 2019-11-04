@@ -5,7 +5,7 @@ permalink: /about_me
 ---
 ## Bona Fides
 
-I'm not an expert in behavioral genetics, bioethics, or any adjacent field. However, having read quite a lot in all these fields, I feel I'm in the unique position of being able to synthesize across them. I believe that my curiosity and breadth of knowledge, combined with the depth of knowledge of the experts I interview, will enable cross-pollination among academic disciplines, leading to meaningful conversations. 
+I'm not an specialist in behavioral genetics, bioethics, or any adjacent field. I have, however, read quite a lot in all these fields and feel I'm in the unique position of being able to synthesize across them. My hope is that my curiosity and breadth of knowledge, combined with the depth of knowledge of the experts I interview, will enable cross-pollination among academic disciplines, leading to meaningful conversations. 
 
 ### Current Research 
 
