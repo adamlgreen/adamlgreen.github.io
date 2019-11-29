@@ -1,6 +1,6 @@
 ---
-title: #01 Nancy King — Gene Editing, Enhancement, and the Purview of Biotechnologies
 layout: default
+title: Nancy King — Gene Editing, Enhancement, and the Purview of Biotechnologies
 permalink: /nancy-king-01
 --- 
 <h1>#01 Nancy King — Gene Editing, Enhancement, and the Purview of Biotechnologies</h1>
@@ -10,7 +10,8 @@ permalink: /nancy-king-01
 &nbsp;
 
 <h2> Shownotes </h2>  
-
+* [About Nancy King](https://school.wakehealth.edu/Faculty/K/Nancy-MP-King){:target="_blank"}
+* Nancy's Article on Gene Editing: [Human Gene-Editing Research: Is the Future Here Yet?](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=6736&context=nclr){:target="_blank"}
 * [The evolution of genome editing](https://www.nature.com/articles/d41586-019-03392-9?utm_source=twt_nv&utm_medium=social&utm_campaign=newsandviews){:target="_blank"}
 * [Broad Institute's review of CRISPR](https://www.broadinstitute.org/research-highlights-crispr){:target="_blank"}
 * [The Precautionary Principle](https://en.wikipedia.org/wiki/Precautionary_principle){:target="_blank"}
