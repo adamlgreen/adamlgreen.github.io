@@ -12,12 +12,14 @@ permalink: /nancy-king-01
 <h2> Shownotes </h2>  
 * [About Nancy King](https://school.wakehealth.edu/Faculty/K/Nancy-MP-King){:target="_blank"}
 * Nancy's Article on Gene Editing: [Human Gene-Editing Research: Is the Future Here Yet?](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=6736&context=nclr){:target="_blank"}
+
 * [The evolution of genome editing](https://www.nature.com/articles/d41586-019-03392-9?utm_source=twt_nv&utm_medium=social&utm_campaign=newsandviews){:target="_blank"}
 * [Broad Institute's review of CRISPR](https://www.broadinstitute.org/research-highlights-crispr){:target="_blank"}
 * [The Precautionary Principle](https://en.wikipedia.org/wiki/Precautionary_principle){:target="_blank"}
 * [Chesterton's Fence](https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton's_fence){:target="_blank"} 
 * [Base editing](https://www.genengnews.com/insights/all-about-that-base-editing/){:target="_blank"}
-* [Prime editing](https://www.broadinstitute.org/news/new-crispr-genome-editing-system-offers-wide-range-versatility-human-cells){:target="_blank"}
+* [David Liu's 2019 prime editing paper](https://www.gwern.net/docs/genetics/editing/2019-anzalone.pdf){:target="_blank"}
+* [Prime editing review](https://www.broadinstitute.org/news/new-crispr-genome-editing-system-offers-wide-range-versatility-human-cells){:target="_blank"}
 * [Discovery of the double helix by Watson and Crick](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/){:target="_blank"}
 * [Rosalind Franklin](http://www.dnaftb.org/19/bio-3.html){:target="_blank"}
 * [Gene therapy](https://www.statnews.com/sponsor/2018/11/20/the-potential-of-gene-therapy/){:target="_blank"}
