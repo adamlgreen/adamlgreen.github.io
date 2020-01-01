@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eric Juengst — Genetic Technologies and the Shadow of Eugenics
+title: Eric Juengst — Medical Genetics and Reproductive Decision-Making
 permalink: /eric-juengst-02
 --- 
 <h1>#02 Eric Juengst — Medical Genetics and Reproductive Decision-Making</h1>
@@ -57,7 +57,7 @@ permalink: /eric-juengst-02
 * ["Polygenic risk scores for schizophrenia and bipolar disorder predict creativity"](https://www.nature.com/articles/nn.4040?proof=true){:target="_blank"}
 * Is genetic diversity an inherent good? ([40:20](https://soundcloud.com/user-50307279/medical-genetics-and-reproductive-decision-making-eric-juengst#t=40:20){:target="_blank"}) 
 * [HLA gene](https://en.wikipedia.org/wiki/Human_leukocyte_antigen){:target="_blank"}, which codes for the major histocompatability complex
-* Crop [monocultures](https://en.wikipedia.org/wiki/Monoculture) {:target="_blank"}
+* Crop [monocultures](https://en.wikipedia.org/wiki/Monoculture){:target="_blank"}
 * Social arrangements for a world where everyone can flourish—what sort of special dispensations are we willing to make to accomodate the full spectrum of genetic diversity?
 
 
