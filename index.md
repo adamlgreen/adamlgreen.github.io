@@ -4,6 +4,7 @@ title: About the Podcast
 ---
 ## Released Podcast Episodes ##
 
+## <a href = "/eric-juengst-02"><span style="color:blue"> #02 Eric Juengst — Medical Genetics and Reproductive Decision Making </span> </a>
 ## <a href = "/nancy-king-01"><span style="color:blue"> #01 Nancy King — Gene Editing, Enhancement, and the Purview of Biotechnologies </span></a>
 ## About The Podcast
 ### Motivations
