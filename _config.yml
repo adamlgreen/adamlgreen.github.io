@@ -33,7 +33,7 @@ scholar:
   
 
 # Build settings
-theme: minima
+remote_theme: hpshinde/tufte-jekyll
 plugins:
   - jekyll-feed
   - jekyll-sitemap
