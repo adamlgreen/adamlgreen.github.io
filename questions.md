@@ -16,7 +16,6 @@ permalink: questions
 
 #### Population Stratification and Missing Heritability
 * Will high-coverage whole genome sequencing (WGS) help us discover the so-called "missing heritability"? 
-* Is regressing out the first N principal components of population stratification a good enough way of separating polygenic effects from confounding factors? What about LD score regression; is this a better solution?
 * Within-family PGS studies are one of the best ways to control for population stratification as well as environmental effects (especially environmental effects that are passively genetically correlated, like [genetic nurture](https://www.genome.gov/Multimedia/Slides/MissingHeritability2018/25_kong_iImpact_indirect_genetic_effects.pdf)). Additionally, within-family studies directly mirror PGD, in that embryos are like siblings, sharing a relatedness of 0.5, and polygenic scores are distributed via meiosis.
     1. Will within-family studies show that heritability estimates from twin studies are overestimates?
     2. Will within-family PGS ever approach SNP-based heritability estimates? 
@@ -52,19 +51,19 @@ permalink: questions
 #### Pleiotropy, Genetic Diversity, and the Precautionary Principle
 * How should we evaluate the ecological risk associated with gene-drives? To reiterate a previous question, but on a larger scale: can we perturb a complex, multidimensional system (in this case, an ecosystem, not a human body) without wreaking havoc? 
 * Is genetic diversity an inherent good? For example, one might argue that just as crop monocultures are more susceptible to certain novel viruses, we humans too might be more susceptible to novel pathogens if we increase genetic homogeneity at key disease-related regions in the genome.
-* Regarding pleiotropy and unintended consequences, should we follow the precautionary principle and assume that there is no free lunch vis-à-vis biology?
+* Regarding pleiotropy and unintended consequences, should we follow the precautionary principle and assume that there is no free lunch with respect to biology?
 * Certain positive traits (e.g., creativity) are moderately [genetically correlated](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4590283/) with psychopathologies like schizophrenia and bipolar disorder. 
     1. Would parents selecting against these psychopathologies also be indirectly selecting against traits like creativity? (This assumes that creativity is highly heritable.)
     2. Assuming that creativity is a public good, how do we reconcile this apparent asymmetry in incentives? That is, how do we solve the collective action problem of maintaining beneficial types of genetic diversity when prospective parents are incentivized to select against it?
 
 ### <a name="privacy"></a>Privacy, GINA, and Discrimination
 * How do we deal with concerns about privacy and the ease with which genetic data can be de-anonymized? 
-* Will the Genetic Information Nondiscrimination Act (GINA) do enough to protect the individual, both in the employment and health insurance contexts?
+* Will the Genetic Information Nondiscrimination Act (GINA) do enough to protect the individual, both in the employment and health insurance contexts? What about life insurance, which it does not apply to?
 * What sort of arrangement will intelligence agencies and direct-to-consumer genetic testing companies come to? (For example, [FamilyTreeDNA shared data](https://www.nytimes.com/2019/02/04/business/family-tree-dna-fbi.html) with the F.B.I.)
 
 ### <a name="embryology"></a>Embryology and Reproductive Medicine
 * Realistically, in a round of IVF, what percentage of embryos will extract, implant, and come to term successfully? How does this vary with maternal and paternal age?
-* What is IVF like for a mother, both mechanistically (i.e., what are the steps) and emotionally? 
+* What is IVF like for a mother emotionally? 
 
 ### <a name="synthetic_bio"></a>Synthetic Biology
 * How far away are we from chromosome, gamete, or whole embryo synthesis? What about iterated embryo selection?
